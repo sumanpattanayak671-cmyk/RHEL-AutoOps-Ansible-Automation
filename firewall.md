@@ -2,8 +2,6 @@
 
 This guide explains how to manage **firewalld** on Linux systems using **Ansible**.
 
-> ⚠️ **Note:** Some commands from the original notes contained spelling or syntax mistakes. The commands below are corrected.
-
 ---
 
 ## 📌 Table of Contents
